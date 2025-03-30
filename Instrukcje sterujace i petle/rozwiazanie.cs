@@ -47,22 +47,6 @@ class Program
 			Console.WriteLine();
 		}
 
-		// Zadanie 5
-		Console.WriteLine("\n--- Zadanie 5 ---");
-		int exam = 57;
-		if (exam < 0 || exam > 100)
-			Console.WriteLine("Wartość poza zakresem");
-		else if (exam <= 39)
-			Console.WriteLine("Ocena Niedostateczna");
-		else if (exam <= 54)
-			Console.WriteLine("Ocena Dopuszczająca");
-		else if (exam <= 69)
-			Console.WriteLine("Ocena Dostateczna");
-		else if (exam <= 84)
-			Console.WriteLine("Ocena Dobra");
-		else if (exam <= 98)
-			Console.WriteLine("Ocena Bardzo Dobra");
-		else
-			Console.WriteLine("Ocena Celująca");
+
 	}
 }
