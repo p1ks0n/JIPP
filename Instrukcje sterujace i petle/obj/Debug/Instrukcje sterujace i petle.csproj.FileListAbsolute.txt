@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Pulpit\STUDIA1\ROK 2\SEM 4\Język i Paradygmaty programowania\Laboratorium\lab1\Instrukcje sterujace i petle\bin\Debug\Instrukcje sterujace i petle.exe.config
+C:\Users\micha\OneDrive\Pulpit\STUDIA1\ROK 2\SEM 4\Język i Paradygmaty programowania\Laboratorium\lab1\Instrukcje sterujace i petle\bin\Debug\Instrukcje sterujace i petle.exe
+C:\Users\micha\OneDrive\Pulpit\STUDIA1\ROK 2\SEM 4\Język i Paradygmaty programowania\Laboratorium\lab1\Instrukcje sterujace i petle\bin\Debug\Instrukcje sterujace i petle.pdb
+C:\Users\micha\OneDrive\Pulpit\STUDIA1\ROK 2\SEM 4\Język i Paradygmaty programowania\Laboratorium\lab1\Instrukcje sterujace i petle\obj\Debug\Instrukcje sterujace i petle.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Pulpit\STUDIA1\ROK 2\SEM 4\Język i Paradygmaty programowania\Laboratorium\lab1\Instrukcje sterujace i petle\obj\Debug\Instrukcje sterujace i petle.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Pulpit\STUDIA1\ROK 2\SEM 4\Język i Paradygmaty programowania\Laboratorium\lab1\Instrukcje sterujace i petle\obj\Debug\Instrukcje sterujace i petle.exe
+C:\Users\micha\OneDrive\Pulpit\STUDIA1\ROK 2\SEM 4\Język i Paradygmaty programowania\Laboratorium\lab1\Instrukcje sterujace i petle\obj\Debug\Instrukcje sterujace i petle.pdb
